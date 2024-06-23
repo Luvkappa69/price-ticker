@@ -1,0 +1,13 @@
+,symbol,symbol_upper,symbol_lower,name,name_upper,name_lower
+0,1inch,1INCH,1inch,1inch,1INCH,1inch
+1,gns,GNS,gns,gains-network,GAINS-NETWORK,gains-network
+2,aave,AAVE,aave,aave,AAVE,aave
+3,btc,BTC,btc,bitcoin,BITCOIN,bitcoin
+4,eth,ETH,eth,ethereum,ETHEREUM,ethereum
+5,crv,CRV,crv,curve-dao-token,CURVE-DAO,curve-dao-token
+6,quick,QUICK,quick,quickswap,QUICKSWAP,quickswap
+7,bal,BAL,bal,balancer,BALANCER,balancer
+8,gmx,GMX,gmx,gmx,GMX,gmx
+9,dydx,DYDX,dydx,dydx,DYDX,dydx
+10,uni,UNI,uni,uniswap,UNISWAP,uniswap
+11,link,LINK,link,chainlink,CHAINLINK,chainlink
